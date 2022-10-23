@@ -1,4 +1,4 @@
-# ra-props-listingСписок предложений
+# Список предложений
 ===
 
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
@@ -59,3 +59,6 @@
 Используйте приложенный css-файл для стилизации.
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/9f9fxajb51c7hqva/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-props-listing/branch/main)
+
+[GH-Pages](https://nikitakurys.github.io/ra-props-listing/)
